@@ -1,1 +1,1 @@
-# -js_omelette_miniprojet
+# js_omelette_miniprojet
